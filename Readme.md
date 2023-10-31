@@ -5,6 +5,7 @@
 Текст задания
 1. Открыть макет сайта https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?node-id=23%3A2 Нужна страница "Homework3"
 2. Необходимо представить скриншот(-ы) разбиения страницы на блоки
+![СКРИНШОТ](Mockup_homework.png)
 3. Создать новую папку
 4. Создать файл index.html
 5. В соответствии с макетом необходимо:
